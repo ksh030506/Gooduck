@@ -1,0 +1,28 @@
+C:\Users\User\source\repos\Goos_Manage\Goos_Manage\bin\Debug\Goos_Manage.exe.config
+C:\Users\User\source\repos\Goos_Manage\Goos_Manage\bin\Debug\Goos_Manage.exe
+C:\Users\User\source\repos\Goos_Manage\Goos_Manage\bin\Debug\Goos_Manage.pdb
+C:\Users\User\source\repos\Goos_Manage\Goos_Manage\obj\Debug\Goos_Manage.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Goos_Manage\Goos_Manage\obj\Debug\Goos_Manage.Form1.resources
+C:\Users\User\source\repos\Goos_Manage\Goos_Manage\obj\Debug\Goos_Manage.Properties.Resources.resources
+C:\Users\User\source\repos\Goos_Manage\Goos_Manage\obj\Debug\Goos_Manage.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Goos_Manage\Goos_Manage\obj\Debug\Goos_Manage.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Goos_Manage\Goos_Manage\obj\Debug\Goos_Manage.exe
+C:\Users\User\source\repos\Goos_Manage\Goos_Manage\obj\Debug\Goos_Manage.pdb
+C:\Users\User\source\repos\Goos_Manage\Goos_Manage\obj\Debug\Goos_Manage.Form2.resources
+C:\Users\User\source\repos\Goos_Manage\Goos_Manage\obj\Debug\Goos_Manage.Form3.resources
+C:\Users\User\source\repos\Goos_Manage\Goos_Manage\obj\Debug\Goos_Manage.Form4.resources
+C:\Users\User\source\repos\Goos_Manage\Goos_Manage\obj\Debug\Goos_Manage.Form5.resources
+C:\Users\llmm0\OneDrive\바탕 화면\Desktop (4)\Goos_Manage\bin\Debug\Goos_Manage.exe.config
+C:\Users\llmm0\OneDrive\바탕 화면\Desktop (4)\Goos_Manage\bin\Debug\Goos_Manage.exe
+C:\Users\llmm0\OneDrive\바탕 화면\Desktop (4)\Goos_Manage\bin\Debug\Goos_Manage.pdb
+C:\Users\llmm0\OneDrive\바탕 화면\Desktop (4)\Goos_Manage\obj\Debug\Goos_Manage.csprojAssemblyReference.cache
+C:\Users\llmm0\OneDrive\바탕 화면\Desktop (4)\Goos_Manage\obj\Debug\Goos_Manage.Form1.resources
+C:\Users\llmm0\OneDrive\바탕 화면\Desktop (4)\Goos_Manage\obj\Debug\Goos_Manage.Form2.resources
+C:\Users\llmm0\OneDrive\바탕 화면\Desktop (4)\Goos_Manage\obj\Debug\Goos_Manage.Form3.resources
+C:\Users\llmm0\OneDrive\바탕 화면\Desktop (4)\Goos_Manage\obj\Debug\Goos_Manage.Form4.resources
+C:\Users\llmm0\OneDrive\바탕 화면\Desktop (4)\Goos_Manage\obj\Debug\Goos_Manage.Form5.resources
+C:\Users\llmm0\OneDrive\바탕 화면\Desktop (4)\Goos_Manage\obj\Debug\Goos_Manage.Properties.Resources.resources
+C:\Users\llmm0\OneDrive\바탕 화면\Desktop (4)\Goos_Manage\obj\Debug\Goos_Manage.csproj.GenerateResource.cache
+C:\Users\llmm0\OneDrive\바탕 화면\Desktop (4)\Goos_Manage\obj\Debug\Goos_Manage.csproj.CoreCompileInputs.cache
+C:\Users\llmm0\OneDrive\바탕 화면\Desktop (4)\Goos_Manage\obj\Debug\Goos_Manage.exe
+C:\Users\llmm0\OneDrive\바탕 화면\Desktop (4)\Goos_Manage\obj\Debug\Goos_Manage.pdb
