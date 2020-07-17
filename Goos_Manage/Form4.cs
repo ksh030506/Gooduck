@@ -224,7 +224,7 @@ namespace Goos_Manage
                 conn.Open();
                 SqlCommand command = new SqlCommand();
 
-                string sql = "SELECT SID, Sname, Sprice, Ccount FROM Sale";
+                string sql = "select SUM(Sale.Ccount * Product.Price) as '총 가격', Product.Name from Sale, Product where Sale.PID = Product.PID group by Product.PID, Product.Name order by Product.PID ASC; ";
 
                 SqlDataAdapter adapter = new SqlDataAdapter(sql, conn);
                 adapter.Fill(ds, "Table_1");
@@ -240,7 +240,7 @@ namespace Goos_Manage
                 conn.Open();
                 SqlCommand command = new SqlCommand();
 
-                string sql = "SELECT SID, Sname, Sprice, Ccount FROM Sale where PID =" + pid +";";
+                string sql = "SELECT SID, Sname, Ccount FROM Sale where PID =" + pid +";";
 
                 SqlDataAdapter adapter = new SqlDataAdapter(sql, conn);
                 adapter.Fill(ds, "Table_1");
