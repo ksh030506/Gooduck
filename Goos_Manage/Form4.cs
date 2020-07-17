@@ -184,12 +184,12 @@ namespace Goos_Manage
                     conn.Open();
                     SqlCommand command = conn.CreateCommand();
 
-                    command.CommandText = "select SUM(a.Ccount), a.Type  from ( select Sale.Ccount, Product.Type, Sale.PID from Sale, Product, Stock where Stock.PID = Product.PID and Product.PID = Sale.PID group by Sale.Ccount, Product.Type, Sale.PID  having Sale.PID = " + pid + " ) a  group by a.Type;";
+                    command.CommandText = "select SUM(a.Ccount), a.Type from ( select Sale.Ccount, Product.Type from Sale, Product where Sale.PID = Product.PID and Product.PID = "+ pid +" ) a group by a.Type; ";
 
                     a = command.ExecuteScalar().ToString();
 
 
-                    command.CommandText = "select a.Type, SUM(a.Ccount) from ( select Sale.Ccount, Product.Type, Sale.PID from Sale, Product, Stock where Stock.PID = Product.PID and Product.PID = Sale.PID group by Sale.Ccount, Product.Type, Sale.PID  having Sale.PID = " + pid + " ) a  group by a.Type;";
+                    command.CommandText = "select a.Type, SUM(a.Ccount) from ( select Sale.Ccount, Product.Type from Sale, Product where Sale.PID = Product.PID and Product.PID = " + pid +" ) a group by a.Type; ";
 
                     string b = command.ExecuteScalar().ToString();
 
