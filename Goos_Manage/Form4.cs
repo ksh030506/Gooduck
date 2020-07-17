@@ -279,12 +279,13 @@ namespace Goos_Manage
                 conn.Open();
                 SqlCommand command = new SqlCommand();
 
-                string sql = "SELECT SID, Sname, Sprice, Ccount FROM Sale;";
+                string sql = "SELECT SID, Sname, Ccount FROM Sale;";
 
                 SqlDataAdapter adapter = new SqlDataAdapter(sql, conn);
                 adapter.Fill(ds, "Table_1");
             }
             dataGridView1.DataSource = ds.Tables[0];
+            TotalCost();
         }
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e) // 클릭한 행의 SID 부분을 가져오는 메소드
